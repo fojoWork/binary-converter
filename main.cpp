@@ -1,11 +1,6 @@
 #include <iostream>
 #include <string>
-#include <vector>
-
-
-
-
-
+#include <vector>
 
 int main() {
   int target = 70; //4 bytes
